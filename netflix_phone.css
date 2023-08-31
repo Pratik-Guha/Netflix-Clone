@@ -1,0 +1,140 @@
+.logo {
+    margin-left: -4vw;
+    width: 80px;
+  }
+
+.btn1 {
+    color: white;
+    padding: 5px 15px;
+    font-size: 10px;
+    border-radius: 4px;
+    border: 0.8px solid rgba(255, 255, 255, 0.308);
+    position: relative;
+    top: 4px;
+}
+
+.bx-globe{
+    padding: 0;
+    font-size: 1.22rem;
+    margin-right: 2px;
+    
+}
+.bxs-down-arrow{
+    margin-left: 13px;
+}
+.btn2 {
+    
+    padding: 5.5px 10px;
+    font-size: 12px;
+    border-radius: 4px;
+    margin-left: 1px;
+}
+
+.header-content h1 {
+    margin: auto;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 40px;
+    width: 82vw;
+
+}
+
+.header-content h3{
+    font-size: 19px;
+    font-weight: 400;
+    margin: 3vh 2vw;
+}
+
+
+.same {
+    font-size: 0.5rem;
+    font-weight: 200;
+    line-height: 1.4rem;
+    text-align: center;
+}
+.email-signup .email {
+    line-height: 1rem;
+    padding: 1.5vw 20vw;
+    background: rgba(43, 37, 37, 0.466);
+    color: white;
+    border: 1px solid rgba(207, 207, 207, 0.324);
+    border-radius: 7px;
+    margin-right: 5px;
+    font-size: 0.5rem;
+    
+}
+.email-signup{
+    
+    flex-direction: column;
+    margin : 0.5vh 0;
+}
+.bx-chevron-right{
+    position: relative;
+    top: 3.9px;
+    font-size: 1.2rem;
+}
+.email-signup button {
+    font-size: 11px;
+    padding: 4px 7px;
+    font-weight: 400;
+    border-radius: 7px;
+    cursor: pointer;
+
+}
+.row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 20px 0;
+    justify-content: space-between;
+}
+.row h2 {
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 2vh;
+}
+.features {
+    font-size: 15px;
+}
+.colmn {
+    flex-basis: 40%;
+    margin-bottom: 15px;
+}
+.image img{
+    display: block;
+    width: 70%;
+    margin: auto;
+}
+.faq h2 {
+    text-align: center;
+    font-size: 2.1rem;
+    font-weight: 500;
+    line-height: 1;
+}
+.according li label {
+
+    font-size: 0.8rem;
+    padding: 12px 16px;
+    font-weight: 500;
+    
+}
+label::after{
+    
+    font-size: 1.1rem;
+    font-weight: 200;
+    position: absolute;
+    right: 11px;
+    transition: transform 0.5s;
+}
+.fot h2 {
+    font-size: 0.8rem;
+    margin-bottom: 2vh;
+    font-weight: 400;
+}
+.row1 {
+   
+    padding: 55px 0;
+    justify-content: space-evenly;
+  }
